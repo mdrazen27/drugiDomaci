@@ -1,0 +1,12 @@
+.nije{
+    background-color: #F8D7DA;
+     }
+
+.jeste{
+    background-color: #D1E7DD;
+      }
+      
+input[type=checkbox]{
+    transform: scale(1.5);
+    border-radius: 5px;
+                    }
